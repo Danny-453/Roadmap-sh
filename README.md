@@ -1,8 +1,6 @@
 # Adeyemi Daniel CV
 
-Project URL: https://github.com/Danny-453/frontend,
-
-https://github.com/akinghill/roadmap.sh-projects/blob/main/Frontend%20Projects/01-single-page-cv
+Project URL: https://github.com/akinghill/roadmap.sh-projects/blob/main/Frontend%20Projects/01-single-page-cv
 
 
 
