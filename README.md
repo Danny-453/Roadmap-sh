@@ -1,6 +1,9 @@
 # Adeyemi Daniel CV
 
 Project URL: https://github.com/Danny-453/frontend
+
+
+
 A simple static personal resume and portfolio webpage for Adeyemi Daniel, a junior frontend developer.
 
 
