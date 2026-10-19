@@ -2,6 +2,10 @@
 
 A simple static personal resume and portfolio webpage for Adeyemi Daniel, a junior frontend developer.
 
+## Github URL
+https://github.com/Danny-453/frontend
+
+
 ## Overview
 
 This project presents a concise online CV highlighting:
@@ -40,5 +44,3 @@ Possible enhancements include:
 - Including real project links and social profiles
 - Converting the site into a React or other frontend framework project
 
-## Github URL
-project url: "https://github.com/Danny-453/frontend"
