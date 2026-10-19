@@ -1,9 +1,5 @@
 # Adeyemi Daniel CV
 
-Project URL: https://github.com/akinghill/roadmap.sh-projects/blob/main/Frontend%20Projects/01-single-page-cv
-
-
-
 A simple static personal resume and portfolio webpage for Adeyemi Daniel, a junior frontend developer.
 
 
@@ -46,3 +42,4 @@ Possible enhancements include:
 - Including real project links and social profiles
 - Converting the site into a React or other frontend framework project
 
+https://roadmap.sh/projects/single-page-cv
